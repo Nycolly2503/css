@@ -1,10 +1,10 @@
 # css
-<DOCTYPE>
+<! DOCTYPE html>
 <html>
-<head>
-<title> repositorio com estilos </title>
-</head>
-<body>
-POEMAS CURTOS DE AUTORES BRASILEIROS
-</body>
-</html>
+<cabeça>
+  <title> Repositório da aluna Nycolly Mendes da turma de 2020 de informática </ title>
+    </ head>
+ <corpo>
+   Repositório da aluna Nycolly Mendes para a realização das atividades de programação web.
+    </ body>
+    </ html>
